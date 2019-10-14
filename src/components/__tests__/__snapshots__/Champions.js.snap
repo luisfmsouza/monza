@@ -1,0 +1,417 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Champions renders without crashing 1`] = `
+<div>
+  <styled.div
+    key="2005"
+  >
+    <styled.span>
+      2005
+    </styled.span>
+    <styled.span>
+      Fernando Alonso
+    </styled.span>
+    <RaceWinners
+      champion="ALO"
+      raceListBySeason={
+        Object {
+          "races": Array [
+            Object {
+              "code": "FIS",
+              "dateOfBirth": "1973-01-14",
+              "driverId": "fisichella",
+              "familyName": "Fisichella",
+              "givenName": "Giancarlo",
+              "nationality": "Italian",
+              "url": "http://en.wikipedia.org/wiki/Giancarlo_Fisichella",
+            },
+            Object {
+              "code": "ALO",
+              "dateOfBirth": "1981-07-29",
+              "driverId": "alonso",
+              "familyName": "Alonso",
+              "givenName": "Fernando",
+              "nationality": "Spanish",
+              "permanentNumber": "14",
+              "url": "http://en.wikipedia.org/wiki/Fernando_Alonso",
+            },
+            Object {
+              "code": "ALO",
+              "dateOfBirth": "1981-07-29",
+              "driverId": "alonso",
+              "familyName": "Alonso",
+              "givenName": "Fernando",
+              "nationality": "Spanish",
+              "permanentNumber": "14",
+              "url": "http://en.wikipedia.org/wiki/Fernando_Alonso",
+            },
+            Object {
+              "code": "ALO",
+              "dateOfBirth": "1981-07-29",
+              "driverId": "alonso",
+              "familyName": "Alonso",
+              "givenName": "Fernando",
+              "nationality": "Spanish",
+              "permanentNumber": "14",
+              "url": "http://en.wikipedia.org/wiki/Fernando_Alonso",
+            },
+            Object {
+              "code": "RAI",
+              "dateOfBirth": "1979-10-17",
+              "driverId": "raikkonen",
+              "familyName": "Räikkönen",
+              "givenName": "Kimi",
+              "nationality": "Finnish",
+              "permanentNumber": "7",
+              "url": "http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen",
+            },
+            Object {
+              "code": "RAI",
+              "dateOfBirth": "1979-10-17",
+              "driverId": "raikkonen",
+              "familyName": "Räikkönen",
+              "givenName": "Kimi",
+              "nationality": "Finnish",
+              "permanentNumber": "7",
+              "url": "http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen",
+            },
+            Object {
+              "code": "ALO",
+              "dateOfBirth": "1981-07-29",
+              "driverId": "alonso",
+              "familyName": "Alonso",
+              "givenName": "Fernando",
+              "nationality": "Spanish",
+              "permanentNumber": "14",
+              "url": "http://en.wikipedia.org/wiki/Fernando_Alonso",
+            },
+            Object {
+              "code": "RAI",
+              "dateOfBirth": "1979-10-17",
+              "driverId": "raikkonen",
+              "familyName": "Räikkönen",
+              "givenName": "Kimi",
+              "nationality": "Finnish",
+              "permanentNumber": "7",
+              "url": "http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen",
+            },
+            Object {
+              "code": "MSC",
+              "dateOfBirth": "1969-01-03",
+              "driverId": "michael_schumacher",
+              "familyName": "Schumacher",
+              "givenName": "Michael",
+              "nationality": "German",
+              "url": "http://en.wikipedia.org/wiki/Michael_Schumacher",
+            },
+            Object {
+              "code": "ALO",
+              "dateOfBirth": "1981-07-29",
+              "driverId": "alonso",
+              "familyName": "Alonso",
+              "givenName": "Fernando",
+              "nationality": "Spanish",
+              "permanentNumber": "14",
+              "url": "http://en.wikipedia.org/wiki/Fernando_Alonso",
+            },
+            Object {
+              "code": "MON",
+              "dateOfBirth": "1975-09-20",
+              "driverId": "montoya",
+              "familyName": "Pablo Montoya",
+              "givenName": "Juan",
+              "nationality": "Colombian",
+              "url": "http://en.wikipedia.org/wiki/Juan_Pablo_Montoya",
+            },
+            Object {
+              "code": "ALO",
+              "dateOfBirth": "1981-07-29",
+              "driverId": "alonso",
+              "familyName": "Alonso",
+              "givenName": "Fernando",
+              "nationality": "Spanish",
+              "permanentNumber": "14",
+              "url": "http://en.wikipedia.org/wiki/Fernando_Alonso",
+            },
+            Object {
+              "code": "RAI",
+              "dateOfBirth": "1979-10-17",
+              "driverId": "raikkonen",
+              "familyName": "Räikkönen",
+              "givenName": "Kimi",
+              "nationality": "Finnish",
+              "permanentNumber": "7",
+              "url": "http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen",
+            },
+            Object {
+              "code": "RAI",
+              "dateOfBirth": "1979-10-17",
+              "driverId": "raikkonen",
+              "familyName": "Räikkönen",
+              "givenName": "Kimi",
+              "nationality": "Finnish",
+              "permanentNumber": "7",
+              "url": "http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen",
+            },
+            Object {
+              "code": "MON",
+              "dateOfBirth": "1975-09-20",
+              "driverId": "montoya",
+              "familyName": "Pablo Montoya",
+              "givenName": "Juan",
+              "nationality": "Colombian",
+              "url": "http://en.wikipedia.org/wiki/Juan_Pablo_Montoya",
+            },
+            Object {
+              "code": "RAI",
+              "dateOfBirth": "1979-10-17",
+              "driverId": "raikkonen",
+              "familyName": "Räikkönen",
+              "givenName": "Kimi",
+              "nationality": "Finnish",
+              "permanentNumber": "7",
+              "url": "http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen",
+            },
+            Object {
+              "code": "MON",
+              "dateOfBirth": "1975-09-20",
+              "driverId": "montoya",
+              "familyName": "Pablo Montoya",
+              "givenName": "Juan",
+              "nationality": "Colombian",
+              "url": "http://en.wikipedia.org/wiki/Juan_Pablo_Montoya",
+            },
+            Object {
+              "code": "RAI",
+              "dateOfBirth": "1979-10-17",
+              "driverId": "raikkonen",
+              "familyName": "Räikkönen",
+              "givenName": "Kimi",
+              "nationality": "Finnish",
+              "permanentNumber": "7",
+              "url": "http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen",
+            },
+            Object {
+              "code": "ALO",
+              "dateOfBirth": "1981-07-29",
+              "driverId": "alonso",
+              "familyName": "Alonso",
+              "givenName": "Fernando",
+              "nationality": "Spanish",
+              "permanentNumber": "14",
+              "url": "http://en.wikipedia.org/wiki/Fernando_Alonso",
+            },
+          ],
+          "season": "2005",
+        }
+      }
+      season="2005"
+    />
+    <styled.button
+      onClick={[Function]}
+    >
+      <ArrowDown />
+    </styled.button>
+  </styled.div>
+  <styled.div
+    key="2006"
+  >
+    <styled.span>
+      2006
+    </styled.span>
+    <styled.span>
+      Fernando Alonso
+    </styled.span>
+    <RaceWinners
+      champion="ALO"
+      raceListBySeason={null}
+      season="2006"
+    />
+    <styled.button
+      onClick={[Function]}
+    >
+      <ArrowDown />
+    </styled.button>
+  </styled.div>
+  <styled.div
+    key="2007"
+  >
+    <styled.span>
+      2007
+    </styled.span>
+    <styled.span>
+      Kimi Räikkönen
+    </styled.span>
+    <RaceWinners
+      champion="RAI"
+      raceListBySeason={null}
+      season="2007"
+    />
+    <styled.button
+      onClick={[Function]}
+    >
+      <ArrowDown />
+    </styled.button>
+  </styled.div>
+  <styled.div
+    key="2008"
+  >
+    <styled.span>
+      2008
+    </styled.span>
+    <styled.span>
+      Lewis Hamilton
+    </styled.span>
+    <RaceWinners
+      champion="HAM"
+      raceListBySeason={null}
+      season="2008"
+    />
+    <styled.button
+      onClick={[Function]}
+    >
+      <ArrowDown />
+    </styled.button>
+  </styled.div>
+  <styled.div
+    key="2009"
+  >
+    <styled.span>
+      2009
+    </styled.span>
+    <styled.span>
+      Jenson Button
+    </styled.span>
+    <RaceWinners
+      champion="BUT"
+      raceListBySeason={null}
+      season="2009"
+    />
+    <styled.button
+      onClick={[Function]}
+    >
+      <ArrowDown />
+    </styled.button>
+  </styled.div>
+  <styled.div
+    key="2010"
+  >
+    <styled.span>
+      2010
+    </styled.span>
+    <styled.span>
+      Sebastian Vettel
+    </styled.span>
+    <RaceWinners
+      champion="VET"
+      raceListBySeason={null}
+      season="2010"
+    />
+    <styled.button
+      onClick={[Function]}
+    >
+      <ArrowDown />
+    </styled.button>
+  </styled.div>
+  <styled.div
+    key="2011"
+  >
+    <styled.span>
+      2011
+    </styled.span>
+    <styled.span>
+      Sebastian Vettel
+    </styled.span>
+    <RaceWinners
+      champion="VET"
+      raceListBySeason={null}
+      season="2011"
+    />
+    <styled.button
+      onClick={[Function]}
+    >
+      <ArrowDown />
+    </styled.button>
+  </styled.div>
+  <styled.div
+    key="2012"
+  >
+    <styled.span>
+      2012
+    </styled.span>
+    <styled.span>
+      Sebastian Vettel
+    </styled.span>
+    <RaceWinners
+      champion="VET"
+      raceListBySeason={null}
+      season="2012"
+    />
+    <styled.button
+      onClick={[Function]}
+    >
+      <ArrowDown />
+    </styled.button>
+  </styled.div>
+  <styled.div
+    key="2013"
+  >
+    <styled.span>
+      2013
+    </styled.span>
+    <styled.span>
+      Sebastian Vettel
+    </styled.span>
+    <RaceWinners
+      champion="VET"
+      raceListBySeason={null}
+      season="2013"
+    />
+    <styled.button
+      onClick={[Function]}
+    >
+      <ArrowDown />
+    </styled.button>
+  </styled.div>
+  <styled.div
+    key="2014"
+  >
+    <styled.span>
+      2014
+    </styled.span>
+    <styled.span>
+      Lewis Hamilton
+    </styled.span>
+    <RaceWinners
+      champion="HAM"
+      raceListBySeason={null}
+      season="2014"
+    />
+    <styled.button
+      onClick={[Function]}
+    >
+      <ArrowDown />
+    </styled.button>
+  </styled.div>
+  <styled.div
+    key="2015"
+  >
+    <styled.span>
+      2015
+    </styled.span>
+    <styled.span>
+      Lewis Hamilton
+    </styled.span>
+    <RaceWinners
+      champion="HAM"
+      raceListBySeason={null}
+      season="2015"
+    />
+    <styled.button
+      onClick={[Function]}
+    >
+      <ArrowDown />
+    </styled.button>
+  </styled.div>
+</div>
+`;
