@@ -1,26 +1,26 @@
 import React from "react";
-import logo from "./logo.svg";
-import "./App.css";
+import { Provider } from "react-redux";
+import { createGlobalStyle, ThemeProvider } from "styled-components";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+import state from "./state";
+import container from "./container";
+import Content from "./components/Content";
+import * as colors from "./theme/colors";
 
-export default App;
+const GlobalStyle = createGlobalStyle`
+  body {
+    background-color: ${({ theme }) => theme.colors.grey40};
+    color: white;
+  }
+`;
+
+const ConnectedContent = container(Content);
+
+export default () => (
+  <Provider store={state}>
+    <ThemeProvider theme={{ colors: colors }}>
+      <GlobalStyle />
+      <ConnectedContent />
+    </ThemeProvider>
+  </Provider>
+);
