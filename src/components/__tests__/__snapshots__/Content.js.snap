@@ -1,0 +1,380 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Content renders without crashing 1`] = `
+<styled.main>
+  <h1>
+    Formula 1 world champions
+  </h1>
+  <Champions
+    raceList={
+      Array [
+        Object {
+          "races": Array [
+            Object {
+              "code": "FIS",
+              "dateOfBirth": "1973-01-14",
+              "driverId": "fisichella",
+              "familyName": "Fisichella",
+              "givenName": "Giancarlo",
+              "nationality": "Italian",
+              "url": "http://en.wikipedia.org/wiki/Giancarlo_Fisichella",
+            },
+            Object {
+              "code": "ALO",
+              "dateOfBirth": "1981-07-29",
+              "driverId": "alonso",
+              "familyName": "Alonso",
+              "givenName": "Fernando",
+              "nationality": "Spanish",
+              "permanentNumber": "14",
+              "url": "http://en.wikipedia.org/wiki/Fernando_Alonso",
+            },
+            Object {
+              "code": "ALO",
+              "dateOfBirth": "1981-07-29",
+              "driverId": "alonso",
+              "familyName": "Alonso",
+              "givenName": "Fernando",
+              "nationality": "Spanish",
+              "permanentNumber": "14",
+              "url": "http://en.wikipedia.org/wiki/Fernando_Alonso",
+            },
+            Object {
+              "code": "ALO",
+              "dateOfBirth": "1981-07-29",
+              "driverId": "alonso",
+              "familyName": "Alonso",
+              "givenName": "Fernando",
+              "nationality": "Spanish",
+              "permanentNumber": "14",
+              "url": "http://en.wikipedia.org/wiki/Fernando_Alonso",
+            },
+            Object {
+              "code": "RAI",
+              "dateOfBirth": "1979-10-17",
+              "driverId": "raikkonen",
+              "familyName": "Räikkönen",
+              "givenName": "Kimi",
+              "nationality": "Finnish",
+              "permanentNumber": "7",
+              "url": "http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen",
+            },
+            Object {
+              "code": "RAI",
+              "dateOfBirth": "1979-10-17",
+              "driverId": "raikkonen",
+              "familyName": "Räikkönen",
+              "givenName": "Kimi",
+              "nationality": "Finnish",
+              "permanentNumber": "7",
+              "url": "http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen",
+            },
+            Object {
+              "code": "ALO",
+              "dateOfBirth": "1981-07-29",
+              "driverId": "alonso",
+              "familyName": "Alonso",
+              "givenName": "Fernando",
+              "nationality": "Spanish",
+              "permanentNumber": "14",
+              "url": "http://en.wikipedia.org/wiki/Fernando_Alonso",
+            },
+            Object {
+              "code": "RAI",
+              "dateOfBirth": "1979-10-17",
+              "driverId": "raikkonen",
+              "familyName": "Räikkönen",
+              "givenName": "Kimi",
+              "nationality": "Finnish",
+              "permanentNumber": "7",
+              "url": "http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen",
+            },
+            Object {
+              "code": "MSC",
+              "dateOfBirth": "1969-01-03",
+              "driverId": "michael_schumacher",
+              "familyName": "Schumacher",
+              "givenName": "Michael",
+              "nationality": "German",
+              "url": "http://en.wikipedia.org/wiki/Michael_Schumacher",
+            },
+            Object {
+              "code": "ALO",
+              "dateOfBirth": "1981-07-29",
+              "driverId": "alonso",
+              "familyName": "Alonso",
+              "givenName": "Fernando",
+              "nationality": "Spanish",
+              "permanentNumber": "14",
+              "url": "http://en.wikipedia.org/wiki/Fernando_Alonso",
+            },
+            Object {
+              "code": "MON",
+              "dateOfBirth": "1975-09-20",
+              "driverId": "montoya",
+              "familyName": "Pablo Montoya",
+              "givenName": "Juan",
+              "nationality": "Colombian",
+              "url": "http://en.wikipedia.org/wiki/Juan_Pablo_Montoya",
+            },
+            Object {
+              "code": "ALO",
+              "dateOfBirth": "1981-07-29",
+              "driverId": "alonso",
+              "familyName": "Alonso",
+              "givenName": "Fernando",
+              "nationality": "Spanish",
+              "permanentNumber": "14",
+              "url": "http://en.wikipedia.org/wiki/Fernando_Alonso",
+            },
+            Object {
+              "code": "RAI",
+              "dateOfBirth": "1979-10-17",
+              "driverId": "raikkonen",
+              "familyName": "Räikkönen",
+              "givenName": "Kimi",
+              "nationality": "Finnish",
+              "permanentNumber": "7",
+              "url": "http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen",
+            },
+            Object {
+              "code": "RAI",
+              "dateOfBirth": "1979-10-17",
+              "driverId": "raikkonen",
+              "familyName": "Räikkönen",
+              "givenName": "Kimi",
+              "nationality": "Finnish",
+              "permanentNumber": "7",
+              "url": "http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen",
+            },
+            Object {
+              "code": "MON",
+              "dateOfBirth": "1975-09-20",
+              "driverId": "montoya",
+              "familyName": "Pablo Montoya",
+              "givenName": "Juan",
+              "nationality": "Colombian",
+              "url": "http://en.wikipedia.org/wiki/Juan_Pablo_Montoya",
+            },
+            Object {
+              "code": "RAI",
+              "dateOfBirth": "1979-10-17",
+              "driverId": "raikkonen",
+              "familyName": "Räikkönen",
+              "givenName": "Kimi",
+              "nationality": "Finnish",
+              "permanentNumber": "7",
+              "url": "http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen",
+            },
+            Object {
+              "code": "MON",
+              "dateOfBirth": "1975-09-20",
+              "driverId": "montoya",
+              "familyName": "Pablo Montoya",
+              "givenName": "Juan",
+              "nationality": "Colombian",
+              "url": "http://en.wikipedia.org/wiki/Juan_Pablo_Montoya",
+            },
+            Object {
+              "code": "RAI",
+              "dateOfBirth": "1979-10-17",
+              "driverId": "raikkonen",
+              "familyName": "Räikkönen",
+              "givenName": "Kimi",
+              "nationality": "Finnish",
+              "permanentNumber": "7",
+              "url": "http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen",
+            },
+            Object {
+              "code": "ALO",
+              "dateOfBirth": "1981-07-29",
+              "driverId": "alonso",
+              "familyName": "Alonso",
+              "givenName": "Fernando",
+              "nationality": "Spanish",
+              "permanentNumber": "14",
+              "url": "http://en.wikipedia.org/wiki/Fernando_Alonso",
+            },
+          ],
+          "season": "2005",
+        },
+      ]
+    }
+    requestYearResults={[MockFunction]}
+    standingsList={
+      Array [
+        Object {
+          "driver": Object {
+            "code": "ALO",
+            "dateOfBirth": "1981-07-29",
+            "driverId": "alonso",
+            "familyName": "Alonso",
+            "givenName": "Fernando",
+            "nationality": "Spanish",
+            "permanentNumber": "14",
+            "url": "http://en.wikipedia.org/wiki/Fernando_Alonso",
+          },
+          "season": "2005",
+        },
+        Object {
+          "driver": Object {
+            "code": "ALO",
+            "dateOfBirth": "1981-07-29",
+            "driverId": "alonso",
+            "familyName": "Alonso",
+            "givenName": "Fernando",
+            "nationality": "Spanish",
+            "permanentNumber": "14",
+            "url": "http://en.wikipedia.org/wiki/Fernando_Alonso",
+          },
+          "season": "2006",
+        },
+        Object {
+          "driver": Object {
+            "code": "RAI",
+            "dateOfBirth": "1979-10-17",
+            "driverId": "raikkonen",
+            "familyName": "Räikkönen",
+            "givenName": "Kimi",
+            "nationality": "Finnish",
+            "permanentNumber": "7",
+            "url": "http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen",
+          },
+          "season": "2007",
+        },
+        Object {
+          "driver": Object {
+            "code": "HAM",
+            "dateOfBirth": "1985-01-07",
+            "driverId": "hamilton",
+            "familyName": "Hamilton",
+            "givenName": "Lewis",
+            "nationality": "British",
+            "permanentNumber": "44",
+            "url": "http://en.wikipedia.org/wiki/Lewis_Hamilton",
+          },
+          "season": "2008",
+        },
+        Object {
+          "driver": Object {
+            "code": "BUT",
+            "dateOfBirth": "1980-01-19",
+            "driverId": "button",
+            "familyName": "Button",
+            "givenName": "Jenson",
+            "nationality": "British",
+            "permanentNumber": "22",
+            "url": "http://en.wikipedia.org/wiki/Jenson_Button",
+          },
+          "season": "2009",
+        },
+        Object {
+          "driver": Object {
+            "code": "VET",
+            "dateOfBirth": "1987-07-03",
+            "driverId": "vettel",
+            "familyName": "Vettel",
+            "givenName": "Sebastian",
+            "nationality": "German",
+            "permanentNumber": "5",
+            "url": "http://en.wikipedia.org/wiki/Sebastian_Vettel",
+          },
+          "season": "2010",
+        },
+        Object {
+          "driver": Object {
+            "code": "VET",
+            "dateOfBirth": "1987-07-03",
+            "driverId": "vettel",
+            "familyName": "Vettel",
+            "givenName": "Sebastian",
+            "nationality": "German",
+            "permanentNumber": "5",
+            "url": "http://en.wikipedia.org/wiki/Sebastian_Vettel",
+          },
+          "season": "2011",
+        },
+        Object {
+          "driver": Object {
+            "code": "VET",
+            "dateOfBirth": "1987-07-03",
+            "driverId": "vettel",
+            "familyName": "Vettel",
+            "givenName": "Sebastian",
+            "nationality": "German",
+            "permanentNumber": "5",
+            "url": "http://en.wikipedia.org/wiki/Sebastian_Vettel",
+          },
+          "season": "2012",
+        },
+        Object {
+          "driver": Object {
+            "code": "VET",
+            "dateOfBirth": "1987-07-03",
+            "driverId": "vettel",
+            "familyName": "Vettel",
+            "givenName": "Sebastian",
+            "nationality": "German",
+            "permanentNumber": "5",
+            "url": "http://en.wikipedia.org/wiki/Sebastian_Vettel",
+          },
+          "season": "2013",
+        },
+        Object {
+          "driver": Object {
+            "code": "HAM",
+            "dateOfBirth": "1985-01-07",
+            "driverId": "hamilton",
+            "familyName": "Hamilton",
+            "givenName": "Lewis",
+            "nationality": "British",
+            "permanentNumber": "44",
+            "url": "http://en.wikipedia.org/wiki/Lewis_Hamilton",
+          },
+          "season": "2014",
+        },
+        Object {
+          "driver": Object {
+            "code": "HAM",
+            "dateOfBirth": "1985-01-07",
+            "driverId": "hamilton",
+            "familyName": "Hamilton",
+            "givenName": "Lewis",
+            "nationality": "British",
+            "permanentNumber": "44",
+            "url": "http://en.wikipedia.org/wiki/Lewis_Hamilton",
+          },
+          "season": "2015",
+        },
+      ]
+    }
+  />
+</styled.main>
+`;
+
+exports[`Content when does not have standings list data renders without crashing 1`] = `
+<styled.main>
+  <h1>
+    Formula 1 world champions
+  </h1>
+  <p>
+    dont have standings data
+  </p>
+  <button
+    onClick={[Function]}
+  >
+    request standings data
+  </button>
+</styled.main>
+`;
+
+exports[`Content when loading standings list renders without crashing 1`] = `
+<styled.main>
+  <h1>
+    Formula 1 world champions
+  </h1>
+  <p>
+    is loading data...
+  </p>
+</styled.main>
+`;
