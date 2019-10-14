@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RaceWinners renders without crashing 1`] = `
+<styled.ul>
+  <styled.li
+    key="2005-0"
+  >
+    <styled.span>
+      2005-03-06
+    </styled.span>
+    <styled.span />
+    <styled.span>
+      Giancarlo Fisichella
+    </styled.span>
+    <styled.span>
+      Albert Park Grand Prix Circuit
+    </styled.span>
+  </styled.li>
+  <styled.li
+    key="2005-1"
+  >
+    <styled.span>
+      2006-03-12
+    </styled.span>
+    <styled.span />
+    <styled.span>
+      Fernando Alonso
+       🏆
+    </styled.span>
+    <styled.span>
+      Bahrain International Circuit
+    </styled.span>
+  </styled.li>
+</styled.ul>
+`;
